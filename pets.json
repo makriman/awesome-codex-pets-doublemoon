@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "climber-cat",
+    "name": "Climber Cat",
+    "author": "Doublemoon",
+    "author_handle": "doublemoon",
+    "author_url": "https://0xdoublemoon.github.io/",
+    "primary_category": "Animals",
+    "license": "MIT License",
+    "description": "A bold white cat decked out in climbing gear — harness, chalk bag, and approach shoes — always ready for the next send."
+  },
+  {
+    "slug": "belayer-cat",
+    "name": "Belayer Cat",
+    "author": "Doublemoon",
+    "author_handle": "doublemoon",
+    "author_url": "https://0xdoublemoon.github.io/",
+    "primary_category": "Animals",
+    "license": "MIT License",
+    "description": "A vigilant black-and-white cat kitted out with a belay device and harness, keeping a watchful eye on every climb."
+  }
+]

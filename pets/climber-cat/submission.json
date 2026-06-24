@@ -1,0 +1,16 @@
+{
+  "slug": "climber-cat",
+  "name": "Climber Cat",
+  "author": "Doublemoon",
+  "author_handle": "doublemoon",
+  "author_url": "https://0xdoublemoon.github.io/",
+  "primary_category": "Animals",
+  "tags": ["cat", "climbing", "rock-climbing", "climber", "sports", "harness"],
+  "source_type": "github",
+  "source_url": "https://github.com/doublemoon/awesome-codex-pets",
+  "license": "MIT License",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  }
+}

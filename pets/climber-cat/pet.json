@@ -1,0 +1,7 @@
+{
+  "id": "climber-cat",
+  "displayName": "Climber Cat",
+  "description": "A bold white cat decked out in climbing gear — harness, chalk bag, and approach shoes — always ready for the next send.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal"
+}
