@@ -18,5 +18,15 @@
     "primary_category": "Animals",
     "license": "MIT License",
     "description": "A vigilant black-and-white cat kitted out with a belay device and harness, keeping a watchful eye on every climb."
+  },
+  {
+    "slug": "chotu",
+    "name": "Chotu",
+    "author": "makriman",
+    "author_handle": "makriman",
+    "author_url": "https://github.com/makriman",
+    "primary_category": "Characters",
+    "license": "Non-commercial use only (fan-made; Chhota Bheem is a trademark of Green Gold Animation Pvt. Ltd.)",
+    "description": "A cheerful, brave young hero who keeps you company while you work — a fan-made pet inspired by Chhota Bheem."
   }
 ]

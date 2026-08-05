@@ -8,6 +8,7 @@ A collection of custom pets for [Claude Codex](https://claude.ai/code), featurin
 |-----|-------------|
 | **Climber Cat** | A bold white cat decked out in climbing gear — harness, chalk bag, and approach shoes — always ready for the next send. |
 | **Belayer Cat** | A vigilant black-and-white cat kitted out with a belay device and harness, keeping a watchful eye on every climb. |
+| **Chotu** | A cheerful, brave young hero who keeps you company while you work — a fan-made pet inspired by *Chhota Bheem*. |
 
 ## Structure
 

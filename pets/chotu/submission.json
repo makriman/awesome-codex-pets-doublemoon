@@ -1,0 +1,16 @@
+{
+  "slug": "chotu",
+  "name": "Chotu",
+  "author": "makriman",
+  "author_handle": "makriman",
+  "author_url": "https://github.com/makriman",
+  "primary_category": "Characters",
+  "tags": ["hero", "animation", "kids", "indian-animation", "fan-art", "orange"],
+  "source_type": "fan-art",
+  "source_url": "https://github.com/makriman/Chhota-Bheem-pet",
+  "license": "Non-commercial use only. Fan-made interpretation of Chhota Bheem, a character and trademark of Green Gold Animation Pvt. Ltd. Not affiliated with, endorsed by, or sponsored by the rights holder; contains no official show assets.",
+  "codex_install": {
+    "pet_json": "pet.json",
+    "spritesheet": "spritesheet.webp"
+  }
+}
